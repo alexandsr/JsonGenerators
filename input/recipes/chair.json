@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "create_mod_chairs",
+    "ingredients": [
+      {
+        "item": "minecraft:${COLOR}_wool"
+      },
+      {
+        "tag": "minecraft:wooden_slabs"
+      },
+      {
+        "tag": "minecraft:wooden_slabs"
+      }
+    ],
+    "result": {
+      "item": "extendedseating:${COLOR}_chair",
+      "count": 1
+    }
+  }
+  
